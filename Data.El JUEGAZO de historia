@@ -1,0 +1,30 @@
+[Question]
+1=!
+A=guevos?
+B=Ricos?
+[AnswerATrue]
+A=si
+[AnswerAFalse1]
+A=No
+[AnswerAFalse2]
+A=Puede
+[AnswerAFalse3]
+A=Nidea
+[AnswerBTrue]
+B=si
+[AnswerBFalse1]
+B=No
+[AnswerBFalse2]
+B=Puede
+[AnswerBFalse3]
+B=Nidea
+[Out Of Questions]
+Out Of Questions=Out Of Questions
+[AnswerOut Of QuestionsTrue]
+Out Of Questions=Sorry
+[AnswerOut Of QuestionsFalse1]
+Out Of Questions=We're
+[AnswerOut Of QuestionsFalse2]
+Out Of Questions=Out Of
+[AnswerOut Of QuestionsFalse3]
+Out Of Questions=Questions
