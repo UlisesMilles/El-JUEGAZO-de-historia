@@ -1,0 +1,27 @@
+[Question]
+0=!
+1=Quieres jugar a los bolos?
+2=GATA
+
+[AnswerTrue]
+1=Si
+2=Q tia
+[AnswerFalse1]
+1=No
+2=GATAAAAAA
+[AnswerFalse2]
+1=Puede
+2=JODER
+[AnswerFalse3]
+1=Alomejor
+2=DIOS
+[Out Of Questions]
+Out Of Questions=Out Of Questions
+[AnswerOut Of QuestionsTrue]
+Out Of Questions=Sorry
+[AnswerOut Of QuestionsFalse1]
+Out Of Questions=We're
+[AnswerOut Of QuestionsFalse2]
+Out Of Questions=Out Of
+[AnswerOut Of QuestionsFalse3]
+Out Of Questions=Questions
